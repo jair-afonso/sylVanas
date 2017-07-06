@@ -20,5 +20,11 @@ android mínimo requerido: 4.1 jelly bean.
 
 
 
+
+
+sylVanasv01.apk
+md5sum: 0b1bc8f67b4ba56d1018d23353071063
 --
+
+
 http://github.com/jair-afonso
