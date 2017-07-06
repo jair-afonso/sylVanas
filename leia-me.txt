@@ -1,0 +1,24 @@
+         /\_/\
+    ____/ o o \
+  /~____  =ø= /
+ (______)__m_m)
+
+sylVanas.
+app de simples cálculos matemáticos.
+--
+
+melhor visualizado em determinadas resoluções; aparelhos testados:
+
+galaxy s3 - gt-19300 - cyanogenmod 13
+galaxy grand prime - sm-g530h - android 5.0.2
+galaxy j5 - sm-j510m - android 6.0.1
+-
+
+android mínimo requerido: 4.1 jelly bean.
+
+
+
+
+
+--
+http://github.com/jair-afonso
